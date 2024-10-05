@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wave Of Food Order</string>
+    <string name="next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">943581557663-3bn2gu97kck8vj8nl6ic7ofd384elo6n.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "943581557663",
+    "firebase_url": "https://wave-of-food-order-9f139-default-rtdb.firebaseio.com",
+    "project_id": "wave-of-food-order-9f139",
+    "storage_bucket": "wave-of-food-order-9f139.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943581557663:android:750480a796f4d182fac3aa",
+        "android_client_info": {
+          "package_name": "com.example.waveoffoodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943581557663-ikgqs6262c8c2dnh330meveva87l71ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waveoffoodorder",
+            "certificate_hash": "e134027dc80c2c2be22171068024f0c144153e4a"
+          }
+        },
+        {
+          "client_id": "943581557663-3bn2gu97kck8vj8nl6ic7ofd384elo6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuX7eX_XOWlkV0qKHJ6H29Oc4g1RTvol4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943581557663-3bn2gu97kck8vj8nl6ic7ofd384elo6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
